@@ -8,6 +8,7 @@
 - 📫 How to reach me: saswataminsta@yahoo.com, [Twitter](https://twitter.com/saswatamcode), [LinkedIn](https://www.linkedin.com/in/saswatamcode/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Will forget to sleep sometimes...😁
+- ✍️ Blog: I write technical articles on [dev.to](https://dev.to/saswatamcode) and [Medium](https://medium.com/@saswatamcode)
 
 <!--
 **saswatamcode/saswatamcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
