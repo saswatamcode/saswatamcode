@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on various web/app projects using React, Node.js & Golang.
 - 🌱 I’m currently learning AWS, SwiftUI and React Native.
