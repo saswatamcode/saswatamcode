@@ -33,7 +33,7 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-![saswatamcode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saswatamcode&show_icons=true&hide=["issues"]&hide_border=true)
+![saswatamcode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saswatamcode&show_icons=true&hide=["issues"]&hide_border=true&theme=radical)
 
 [![HitCount](http://hits.dwyl.com/saswatamcode/saswatamcode.svg)](http://hits.dwyl.com/saswatamcode/saswatamcode)
 
