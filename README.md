@@ -1,4 +1,6 @@
 # Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+<a href="https://twitter.com/saswatamcode"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/saswatamcode/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/saswatamcode"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a> <a href="https://dev.to/saswatamcode"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" /></a>
+<br />
 
 - 🔭 I’m currently working on various web/app projects using React, Node.js & Golang.
 - 🌱 I’m currently learning AWS, SwiftUI and React Native.
