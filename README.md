@@ -3,7 +3,7 @@
 <br />
 
 - 🔭 I’m currently working on various web/app projects using React, Node.js & Golang.
-- 🌱 I’m currently learning AWS, SwiftUI and React Native.
+- 🌱 I’m currently learning about AWS and SwiftUI.
 - 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
 - 🤔 I’m looking for help with ML.
 - 💬 Ask me about anything, I'm happy to help!
