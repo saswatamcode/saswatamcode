@@ -7,10 +7,10 @@
 <a href="https://github.com/saswatamcode/">GitHub</a>
 <br />
 
-- 🔭 I’m currently working on various web/app projects using React, Node.js & Golang.
-- 🌱 I’m currently learning about AWS and SwiftUI.
+- 🔭 I’m currently working on various open-source web projects using React & Go.
+- 🌱 Prev SDE Intern @ [ChaosNative](https://chaosnative.com/)
 - 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
-- 🤔 I’m looking for help with ML.
+- 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: saswataminsta@yahoo.com, [Twitter](https://twitter.com/saswatamcode), [LinkedIn](https://www.linkedin.com/in/saswatamcode/)
 - 😄 Pronouns: he/him
@@ -47,9 +47,10 @@
 
 ![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=saswatamcode&show_icons=true&hide=["issues"]&theme=tokyonight)
 
+<!--
+
 [![HitCount](http://hits.dwyl.com/saswatamcode/saswatamcode.svg)](http://hits.dwyl.com/saswatamcode/saswatamcode)
 
-<!--
 **saswatamcode/saswatamcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
