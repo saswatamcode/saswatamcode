@@ -8,7 +8,7 @@
 <br />
 
 - 🔭 I’m currently working on various open-source web projects using React & Go.
-- 🌱 Prev SDE Intern @ [ChaosNative](https://chaosnative.com/)
+- 🌱 GSoC'21 @ [ThanosMetrics](https://github.com/thanos-io) ([@CNCF](https://github.com/cncf)), Former SDE Intern @ [ChaosNative](https://chaosnative.com/)
 - 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
 - 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
 - 💬 Ask me about anything, I'm happy to help!
