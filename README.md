@@ -7,8 +7,8 @@
 <a href="https://github.com/saswatamcode/">GitHub</a>
 <br />
 
-- 🔭 I’m currently working on various open-source web projects using React & Go.
-- 🌱 GSoC'21 @ [ThanosMetrics](https://github.com/thanos-io) ([@CNCF](https://github.com/cncf)), Former SDE Intern @ [ChaosNative](https://chaosnative.com/)
+- 🔭 I'm currently working as an SWE intern at Red Hat as part of the OpenShift monitoring team.
+- 🌱 SWE Intern @ Red Hat, GSoC'21 @ [ThanosMetrics](https://github.com/thanos-io) ([@CNCF](https://github.com/cncf)), Former SDE Intern @ [ChaosNative](https://chaosnative.com/)
 - 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
 - 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
 - 💬 Ask me about anything, I'm happy to help!
@@ -43,11 +43,8 @@
 ###
 <code><img height="45" alt="Docker" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="45" alt="Kubernetes" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-
-
-![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=saswatamcode&show_icons=true&hide=["issues"]&theme=tokyonight)
-
 <!--
+![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=saswatamcode&show_icons=true&hide=["issues"]&theme=tokyonight)
 
 [![HitCount](http://hits.dwyl.com/saswatamcode/saswatamcode.svg)](http://hits.dwyl.com/saswatamcode/saswatamcode)
 
