@@ -7,7 +7,7 @@
 <a href="https://github.com/saswatamcode/">GitHub</a>
 <br />
 
-- 🔭 I'm currently working as an SWE intern at Red Hat as part of the OpenShift monitoring team.
+- 🔭 I'm currently working as an Associate SWE at Red Hat as part of the OpenShift monitoring team.
 - 🌱 SWE Intern @ Red Hat, GSoC'21 @ [ThanosMetrics](https://github.com/thanos-io) ([@CNCF](https://github.com/cncf)), Former SDE Intern @ [ChaosNative](https://chaosnative.com/)
 - 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
 - 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
