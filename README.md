@@ -10,7 +10,7 @@
 <a href="https://github.com/saswatamcode/">GitHub</a>
 <br />
 
-I'm a Software Engineer at Red Hat as part of the OpenShift monitoring (RHOBS) team, where I work on monitoring-related technologies for building and running observability platforms on Kubernetes/OpenShift. Previously, was an intern on the same team at Red Hat after successfully completing GSoC'21 as a mentee under the [Thanos](https://thanos.io/) project.
+I'm a Senior Software Engineer at Red Hat as part of the Multi-Cluster monitoring (RHOBS) team, where I work on monitoring-related technologies for building and running observability platforms on Kubernetes/OpenShift. Previously, successfully completed GSoC'21 as a mentee under the [Thanos](https://thanos.io/) project.
 
 Currently, maintaining several open-source projects like [Thanos](https://thanos.io/tip/thanos/maintainers.md/) which is a [CNCF](https://www.cncf.io/) incubating project for distributed monitoring, and [Observatorium](https://observatorium.io/docs/community/maintainers.md/) which is a meta-project to construct several open-source observability projects into a distributed observability platform. Also, help maintain other tools & libraries within the community such as [mdox](https://github.com/bwplotka/mdox) & [efficientgo/e2e](https://github.com/efficientgo/e2e), and mentor for [Thanos LFX](https://mentorship.lfx.linuxfoundation.org/mentor/4bae0944-b520-4b17-ae27-910894932998) projects from time to time! 🌱
 
